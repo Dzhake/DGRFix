@@ -46,8 +46,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="HarmonyLoader">
-      <HintPath>..\content\Dlls\HarmonyLoader.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\..\Mods\DGRFix\content\dlls\HarmonyLoader.dll</HintPath>
     </Reference>
   </ItemGroup>
 
