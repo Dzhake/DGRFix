@@ -1,1 +1,1 @@
-See https://steamcommunity.com/sharedfiles/itemedittext/?id=3386030767.
+See https://steamcommunity.com/sharedfiles/filedetails/?id=3386030767.
